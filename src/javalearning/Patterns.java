@@ -4,10 +4,10 @@ import java.util.Scanner;
 
 public class Patterns {
     public static void main(String[]args) {
-        int i;
-        int j;
-        Scanner sc = new Scanner(System.in);
-        int n = sc.nextInt();
+//        int i;
+//        int j;
+//        Scanner sc = new Scanner(System.in);
+//        int n = sc.nextInt();
 //               Hallow Pattern
 //
 //        for (i = 1; i <= n; i++) {
